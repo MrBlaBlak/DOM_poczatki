@@ -12,4 +12,4 @@ link.href = "http://akademia108.pl";
 link.className="nowa-klasa";
 mainHeader.style.color ='#11aa22';
 link.text='ddd';
-mainHeader.style.color='#11ff22'
+mainHeader.style.color='#11ff22';
